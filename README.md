@@ -2,8 +2,6 @@
 <!--  -->
 <img align="right" width=260px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtzYWQ4dHN2Nzg2MW01cTI5YTN0MDh3NzU3ZDZxNDh2bXc4YWV5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN4ZnNveWJ2Zm00dzYxem92cjEybDFyNXJmcjh3aG1neGlhNjhtZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="70px">&nbsp;
-<br>
 ***About me***
 
 I am an Informatics student currently pursuing a bachelor's degree. I’m deeply interested in machine learning and data analysis, and I enjoy learning new things related to technology and creativity.
@@ -13,6 +11,7 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 - 📫 Reach out to me at: <a href="awandarosifirdaus@gmail.com">awandarosifirdaus@gmail.com</a>
 
 ## My Skills Include
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN4ZnNveWJ2Zm00dzYxem92cjEybDFyNXJmcjh3aG1neGlhNjhtZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="70px"> 
 
 <h4> Languages </h4>
 <span> 
