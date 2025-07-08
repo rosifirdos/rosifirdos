@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi , I'm Awanda Rosi Firdaus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Awanda Rosi Firdaus </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN4ZnNveWJ2Zm00dzYxem92cjEybDFyNXJmcjh3aG1neGlhNjhtZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=260px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtzYWQ4dHN2Nzg2MW01cTI5YTN0MDh3NzU3ZDZxNDh2bXc4YWV5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" />
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtzYWQ4dHN2Nzg2MW01cTI5YTN0MDh3NzU3ZDZxNDh2bXc4YWV5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" />
 
 ***About me***
 
@@ -11,7 +11,6 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 - 📫 Reach out to me at: <a href="awandarosifirdaus@gmail.com">awandarosifirdaus@gmail.com</a>
 
 ## My Skills Include
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN4ZnNveWJ2Zm00dzYxem92cjEybDFyNXJmcjh3aG1neGlhNjhtZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="70px"> 
 
 <h4> Languages </h4>
 <span> 
