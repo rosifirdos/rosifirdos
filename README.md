@@ -43,6 +43,7 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 <a href= "https://www.instagram.com/rosifirdos?igsh=MWxndHhhMGd2aDE1bg==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href= "
 </div>
 
 
