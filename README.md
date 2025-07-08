@@ -8,7 +8,6 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, and 🎵 listening to music.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="awandarosifirdaus@gmail.com">awandarosifirdaus@gmail.com</a>
 
 ## My Skills Include
