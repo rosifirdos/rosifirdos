@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Awanda Rosi Firdaus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=267px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZtc2Z4MHd5djg4cTNjMThqemxibzZrYWt5Z254azhwbndqY2E0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img align="right" width=260px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtzYWQ4dHN2Nzg2MW01cTI5YTN0MDh3NzU3ZDZxNDh2bXc4YWV5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN4ZnNveWJ2Zm00dzYxem92cjEybDFyNXJmcjh3aG1neGlhNjhtZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="40px">&nbsp;***About me***
 
 I am an Informatics student currently pursuing a bachelor's degree. I’m deeply interested in machine learning and data analysis, and I enjoy learning new things related to technology and creativity.
 - 👯 I’m looking forward to collaborate on open source projects.
