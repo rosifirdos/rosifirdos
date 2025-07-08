@@ -43,7 +43,9 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 <a href= "https://www.instagram.com/rosifirdos?igsh=MWxndHhhMGd2aDE1bg==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href= "
+<a href= "https://www.linkedin.com/in/awanda-rosi-firdaus-077059353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
 
