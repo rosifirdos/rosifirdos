@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Awanda Rosi Firdaus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=270px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZtc2Z4MHd5djg4cTNjMThqemxibzZrYWt5Z254azhwbndqY2E0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
