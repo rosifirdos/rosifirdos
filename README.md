@@ -10,7 +10,7 @@ I am an Informatics student currently pursuing a bachelor's degree. I’m deeply
 - 🐍 I enjoy working with Python and exploring AI-related tools.
 - 📊 I like turning raw data into meaningful insights and visualizations.
 - 💡 I’m always excited to learn new technologies and frameworks.
-- 🛠️ Currently building small personal projects to sharpen my skills.
+- 🛠️ Currently building small personal projects to sharpen my skills
 - 📫 Reach out to me at: <a href="awandarosifirdaus@gmail.com">awandarosifirdaus@gmail.com</a>
 
 ## My Skills Include
