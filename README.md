@@ -1,25 +1,22 @@
-<div align="center">
+# Awan Rosi Firdaus
 
-<img src="assets/hero.svg" width="100%" alt="Player 1 — Awan Rosi Firdaus, Informatics student, Level 21"/>
+> Informatics student focused on machine learning and data analysis.
+> I turn raw data into readable insight, and build small projects to learn faster.
 
-<img src="assets/skills.svg" width="100%" alt="Skill stats: Python, Pandas, data visualization, machine learning, JavaScript, SQL"/>
+---
 
-<img src="assets/inventory.svg" width="100%" alt="Equipped tools: Python, Jupyter, Colab, Git, GitHub, MySQL, AWS, Pandas, NumPy, Matplotlib, Docker, VS Code"/>
+**Now** — pursuing a bachelor's degree in Informatics
+**Focus** — machine learning · data analysis · Python
+**Building** — small personal projects to sharpen my skills
+**Learning** — AI tooling, new frameworks, creative code
 
-<img src="assets/quests.svg" width="100%" alt="Quest log: bachelor degree in informatics, machine learning mastery, small projects, AI exploration"/>
+### Stack
 
-<img src="assets/farewell.svg" width="100%" alt="Thanks for playing footer with score HUD"/>
+**Languages** — Python · JavaScript · HTML5 · CSS3
+**Data** — Pandas · NumPy · Matplotlib
+**Tools** — Git · Jupyter · Google Colab · VS Code · Docker · AWS
+**Databases** — MySQL
 
-<br/><br/>
+### Contact
 
-<a href="mailto:awandarosifirdaus@gmail.com"><img src="https://img.shields.io/badge/MAIL-SEND%20MESSAGE-ffcc5c?style=for-the-badge&amp;labelColor=1a1f36&amp;logo=gmail&amp;logoColor=0b0f1e" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/awanda-rosi-firdaus-077059353"><img src="https://img.shields.io/badge/LINKEDIN-OPEN%20TO%20WORK-2ee6f6?style=for-the-badge&amp;labelColor=1a1f36&amp;logo=linkedin&amp;logoColor=0b0f1e" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/rosifirdos"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-ff4d9d?style=for-the-badge&amp;labelColor=1a1f36&amp;logo=instagram&amp;logoColor=0b0f1e" alt="Instagram"/></a>
-
-</div>
-
-<!--
-  All artwork in assets/ is generated as pure pixel-vector SVG: no web fonts and
-  no external images, so it renders identically through GitHub's image proxy.
-  Rebuild anytime with:  node tools/generate-assets.mjs
--->
+[Email](mailto:awandarosifirdaus@gmail.com) · [LinkedIn](https://www.linkedin.com/in/awanda-rosi-firdaus-077059353) · [Instagram](https://www.instagram.com/rosifirdos)
